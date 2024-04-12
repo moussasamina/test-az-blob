@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-az-blob/static/css/main.943ff33e.css",
+    "main.js": "/test-az-blob/static/js/main.dfa20388.js",
+    "index.html": "/test-az-blob/index.html",
+    "main.943ff33e.css.map": "/test-az-blob/static/css/main.943ff33e.css.map",
+    "main.dfa20388.js.map": "/test-az-blob/static/js/main.dfa20388.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.943ff33e.css",
+    "static/js/main.dfa20388.js"
+  ]
+}
